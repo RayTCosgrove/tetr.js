@@ -2,9 +2,9 @@ import React from 'react';
 
 function InfoPanel() {
   return (
-    <div >
+    <div className='info'>
 
-     
+     info
 
     </div>
   );

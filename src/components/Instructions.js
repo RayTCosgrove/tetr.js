@@ -2,9 +2,9 @@ import React from 'react';
 
 function Instructions() {
   return (
-    <div >
+    <div className='instructions' >
 
-     
+     instructions
 
     </div>
   );

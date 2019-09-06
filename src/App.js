@@ -8,7 +8,6 @@ import Camera from './components/Camera'
 function App() {
   return (
     <div className='container' >
-      the quick brown fox jumps over the lazy dog
      <Topbar />
      <Game />
      <Camera />
